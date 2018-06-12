@@ -37,6 +37,13 @@ https://github.com/xuebaodev/wawaji
 * （2）自动弹射器功能，可以让玩家精准控制发射力度，实现完美的操纵体验感。<br>
 * （3）独有的能量条显示功能，让玩家直观了解弹射力度，力度尽在掌握。<br>
 
+<img width="500" height="640" src="https://github.com/changshenxikf/changshenxiDev/blob/master/photo/%E6%A2%A6%E5%B9%BB%E5%AE%9D%E7%8F%A0%20%E5%A4%96%E8%A7%82.jpg"/>
+
+<img width="700" height="570" src="https://github.com/changshenxikf/changshenxiDev/blob/master/photo/%E5%A4%96%E6%9C%BA%E7%AE%B1.png"/>
+
+![image](https://github.com/changshenxikf/changshenxiDev/blob/master/photo/%E5%BC%B9%E7%8F%A0%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%98%BE%E7%A4%BA.png)
+
+
 # 更多信息
 如感兴趣欢迎来我司洽谈合作了解详情。联系人：涂小姐13600087857
 
