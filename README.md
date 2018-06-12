@@ -41,7 +41,7 @@ https://github.com/xuebaodev/wawaji
 
 <img width="700" height="570" src="https://github.com/changshenxikf/changshenxiDev/blob/master/photo/%E5%A4%96%E6%9C%BA%E7%AE%B1.png"/>
 
-![image](https://github.com/changshenxikf/changshenxiDev/blob/master/photo/%E5%BC%B9%E7%8F%A0%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%98%BE%E7%A4%BA.png)
+![image](https://github.com/changshenxikf/changshenxiDev/blob/master/photo/%E7%BD%91%E7%BB%9C%E5%BC%B9%E7%8F%A0%E6%9C%BAAPP%E6%88%90%E5%83%8F.jpg)
 
 
 # 更多信息
