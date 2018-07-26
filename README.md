@@ -1,6 +1,9 @@
 ﻿# changshenxiDev
 昌盛芯开发的产品相关资料
 
+体验地址： http://mmz.csxtech.com.cn/web_wawa_h5/
+<img width="250" height="250" src="https://raw.githubusercontent.com/changshenxikf/changshenxiDev/master/photo/%E8%90%8C%E8%90%8C%E5%BC%B9%E7%90%83h5%E4%BA%8C%E7%BB%B4%E7%A0%81.png"/>
+
 关于H5push应用 https://github.com/xuebaodev/wawaji/tree/master/xuebaoH5push
 
 弹珠游戏机说明（线上线下） https://github.com/changshenxikf/changshenxiDev/wiki/%E5%BC%B9%E7%8F%A0%E6%B8%B8%E6%88%8F%E6%9C%BA%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%EF%BC%88%E7%BA%BF%E4%B8%8A%E7%BA%BF%E4%B8%8B%EF%BC%89 
