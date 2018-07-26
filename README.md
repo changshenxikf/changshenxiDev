@@ -2,7 +2,7 @@
 昌盛芯开发的产品相关资料
 
 体验地址： http://mmz.csxtech.com.cn/web_wawa_h5/
-<img width="250" height="250" src="https://raw.githubusercontent.com/changshenxikf/changshenxiDev/master/photo/%E8%90%8C%E8%90%8C%E5%BC%B9%E7%90%83h5%E4%BA%8C%E7%BB%B4%E7%A0%81.png"/>
+<img width="200" height="200" src="https://raw.githubusercontent.com/changshenxikf/changshenxiDev/master/photo/%E8%90%8C%E8%90%8C%E5%BC%B9%E7%90%83h5%E4%BA%8C%E7%BB%B4%E7%A0%81.png"/>
 
 关于H5push应用 https://github.com/xuebaodev/wawaji/tree/master/xuebaoH5push
 
